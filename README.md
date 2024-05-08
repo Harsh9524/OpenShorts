@@ -1,7 +1,7 @@
 # OpenShorts
 
 <p align="left">
-  <img src="assets/logo.png" alt="OpenShorts Logo" width="50" align="top"> <span style="font-size: 36px; vertical-align: top;"> OpenShorts</span>
+  <img src="assets/logo.png" alt="OpenShorts Logo" width="50" align="top"> <span style="font-size: 36px; vertical-align: top;"></span>
 </p>
 
 At OpenShorts, we believe news and AI should be openly available and transparently accessible to everyone. Our open-source platform harnesses the collective expertise of a global community to deliver a secure, audit-proof system that not only summarizes but also aligns the news with your interests.
